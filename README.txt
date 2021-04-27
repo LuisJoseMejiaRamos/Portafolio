@@ -1,6 +1,6 @@
 Proyecto Portafolio
 
-Proyecto que muestra mis proyectos y estudios.
+Muestra mis proyectos y estudios.
 El diseño esta inspirado en un videojuego llamado pokemon donde aparecia una ficha del jugador llamado "ficha de entrenador" con un efecto de "flip"
 en el front (parte frontal) aparece mis datos generales, nombre, puesto, una pequeña descripcion, fecha de nacimiento, telefono (siempre lo actualizare),
 correo y mi ubicacion donde estoy viviendo y/o trabajando (tambien lo actualizare), redes sociales. En la parte back (parte de posterior) las herramientas
