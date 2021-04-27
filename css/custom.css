@@ -72,4 +72,6 @@
     font-size: 40px;
     color: var(--dark-blue);
 }
-
+.main-info .container .txt-col .text-container ul.social-nw >li >a>i:hover{
+    color: blue;
+}
