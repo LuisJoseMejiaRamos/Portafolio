@@ -7,7 +7,8 @@ misHabilidades.forEach(function(elemento) {
     "<meter class='col-xl-9 col-lg-9' value='"+elemento.nivel+"'></meter>"+
   "</div>"+
 "</div>";
-})
+});
+
 
 $(document).ready(function(){
     $(".Principal").click(function(){
