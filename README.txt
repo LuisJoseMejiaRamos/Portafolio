@@ -1,1 +1,1 @@
-Proyecto Tarjeta de presentacion
+Portafolio de presentacion hecha con html, css, bootstrap y jquery
